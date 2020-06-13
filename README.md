@@ -18,4 +18,7 @@
 <p>
   いずれもMMDのカメラと連動して動きます
 </p>
-  
+<p>
+  作例動画はこちら<br>
+  https://www.nicovideo.jp/watch/sm37027469
+  </p>
